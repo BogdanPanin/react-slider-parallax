@@ -1,0 +1,38 @@
+.slide {
+  height: 700px;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  &__container {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+    P {
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 100px;
+      position: absolute;
+      color: #ffffff;
+    }
+  }
+}
+
+@media screen and (max-width: 768px - 1px) {
+  .slide {
+    height: 100vh;
+    &__container {
+      P {
+        font-size: 50px;
+      }
+    }
+  }
+}
