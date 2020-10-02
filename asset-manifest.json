@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-slider-parallax/static/css/main.4c9443ac.chunk.css",
+    "main.js": "/react-slider-parallax/static/js/main.3d7bd408.chunk.js",
+    "main.js.map": "/react-slider-parallax/static/js/main.3d7bd408.chunk.js.map",
+    "runtime-main.js": "/react-slider-parallax/static/js/runtime-main.5d78f067.js",
+    "runtime-main.js.map": "/react-slider-parallax/static/js/runtime-main.5d78f067.js.map",
+    "static/css/2.3399e8ff.chunk.css": "/react-slider-parallax/static/css/2.3399e8ff.chunk.css",
+    "static/js/2.d6c2d46a.chunk.js": "/react-slider-parallax/static/js/2.d6c2d46a.chunk.js",
+    "static/js/2.d6c2d46a.chunk.js.map": "/react-slider-parallax/static/js/2.d6c2d46a.chunk.js.map",
+    "index.html": "/react-slider-parallax/index.html",
+    "precache-manifest.a1f4e9f9bb7f30838a65c5420a73367a.js": "/react-slider-parallax/precache-manifest.a1f4e9f9bb7f30838a65c5420a73367a.js",
+    "service-worker.js": "/react-slider-parallax/service-worker.js",
+    "static/css/2.3399e8ff.chunk.css.map": "/react-slider-parallax/static/css/2.3399e8ff.chunk.css.map",
+    "static/css/main.4c9443ac.chunk.css.map": "/react-slider-parallax/static/css/main.4c9443ac.chunk.css.map",
+    "static/js/2.d6c2d46a.chunk.js.LICENSE.txt": "/react-slider-parallax/static/js/2.d6c2d46a.chunk.js.LICENSE.txt",
+    "static/media/germany.jpg": "/react-slider-parallax/static/media/germany.b5d0d632.jpg",
+    "static/media/india.jpg": "/react-slider-parallax/static/media/india.e78cb22a.jpg",
+    "static/media/israel.jpg": "/react-slider-parallax/static/media/israel.a2e20ccc.jpg",
+    "static/media/kiev.jpg": "/react-slider-parallax/static/media/kiev.9bf62d06.jpg",
+    "static/media/usa.jpg": "/react-slider-parallax/static/media/usa.d6c2c66e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d78f067.js",
+    "static/css/2.3399e8ff.chunk.css",
+    "static/js/2.d6c2d46a.chunk.js",
+    "static/css/main.4c9443ac.chunk.css",
+    "static/js/main.3d7bd408.chunk.js"
+  ]
+}
